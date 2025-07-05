@@ -20,12 +20,12 @@ It showcases my profile, educational background, and includes links to my Linked
 ## 🔗 Live Demo
 
 **GitHub Pages:**  
-[Click here to view the live site](https://portfolio-website-7sc16uqre-atif4589s-projects.vercel.app)
+[Click here to view the live site](https://portfolio-website-eight-xi-63.vercel.app/)
 
 ## 📬 Contact Me
 
 - **Email:** matif7058@gmail.com  
-- **LinkedIn:** [Mohmmed Atif](https://www.linkedin.com/in/mohmmed-atif-525390322)  
+- **LinkedIn:** [Mohmmed Atif](https://www.linkedin.com/in/mohmmed-atif-52539032)  
 - **GitHub:** [Atif4589](https://github.com/Atif4589)
 
 ---
