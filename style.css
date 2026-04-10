@@ -144,3 +144,15 @@ body {
 .edu-item {
   margin-bottom: 50px;
 }
+body {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeInUp 1s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
